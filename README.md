@@ -1,5 +1,15 @@
 # Employee Management Dashboard
 
+**Note:** There is room for many improvements in this project, such as:  
+- Using a **.env** file for better configuration management  
+- Enhancing the **styling and UI** for a more polished look  
+- Implementing **MongoDB** for persistent storage instead of JSON  
+- Adding authentication and other advanced features  
+
+However, as this is a standard assignment, I have kept it simple and functional.  
+
+---
+
 ## 🛠 Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```sh
