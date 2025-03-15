@@ -1,0 +1,42 @@
+.listContainer {
+    /* background: #f8f9fa; */
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+    width: 96%;
+    margin-top: 10px;
+  }
+  
+  .listItem {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .listItem:last-child {
+    border-bottom: none;
+  }
+  
+  .employeeName {
+    width: 50%;
+    font-weight: bold;
+  }
+  
+  .iconButtons {
+    width: 50%;
+    display: flex;
+    justify-content: space-around; /* Distribute icons evenly */
+    align-items: center;
+  }
+  
+  .icon {
+    cursor: pointer;
+    font-size: 20px;
+    transition: color 0.3s ease;
+  }
+  
+  .icon:hover {
+    color: #007bff;
+  }
+  
